@@ -13,8 +13,13 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
 }
-.SectionProjet1, .SectionProjet2, .SectionProjet3{
+
+.SectionProjet1, .SectionProjet2, .SectionProjet3, .SectionProjet4{
   font-size:30px;
+}
+.SectionProjet4, .carousel-inner img{
+  width: 30px;
+  height: 100vh;
 }
 a {
   color: #149ddd;
